@@ -1,6 +1,8 @@
 ![Sourceduty](https://github.com/sourceduty/Predictive_Route/assets/123030236/a8d25d4a-47af-4e27-8b0d-e07d8bede317)
 
-🚗 Software concept for preparing and adjusting a vehicle on each road.
+> Software concept for preparing and adjusting a vehicle on each road.
+
+#
 
 <details><summary>Concept Vehicle Adjustment for Road Conditions</summary>
   
@@ -86,4 +88,16 @@ In actual automotive systems, such adjustments would be much more complex and wo
 
 This example is a basic illustration meant to convey the concept. Actual implementations in modern vehicles involve intricate interactions between software and hardware, with numerous safety checks and fail-safes to ensure reliability and safety under all conditions.
 
+#
+### Related Links
+
+[Car Design](https://github.com/sourceduty/Car_Design)
+<br>
+[Route Director](https://github.com/sourceduty/Road_Director)
+<br>
+[Car Analyst](https://github.com/sourceduty/Car_Analyst)
+<br>
+[Wildlife Compass](https://github.com/sourceduty/Wildlife_Compass)
+
 ***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
